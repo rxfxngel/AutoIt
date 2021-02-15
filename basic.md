@@ -4,4 +4,4 @@
 `HotKeySet("^{DEL}", "forceStop")`
 - Retraso en milisegundos de los clicks
 
-`AutoItSetOption("SendKeyDelay", 3)
+`AutoItSetOption("SendKeyDelay", 3)`
